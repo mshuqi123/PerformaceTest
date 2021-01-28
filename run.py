@@ -3,18 +3,19 @@
 
 import time,os
 from myThread import myThread
+from utile import setting, tool
 
 
 if __name__ == '__main__':
-    package = "c.l.a"
+    package = setting.package
 
     '''Start pulling hprof files on each device'''
-    print ("-------Start pulling hpro files-------")
-
+    print("-------Start pulling hpro files-------")
+    tool.del_data()     #备份当日原始数据
 
     threads = []
 
-    thread1 = myThread("S4SODIHAZ5JB4SLJ","C:\liuti\self\PerformaceTest\data")
+    thread1 = myThread(setting.device_id, setting.data)
     thread1.start()
     # thread2 = myThread("PullHprof","C:\liuti\self\PerformaceTest\data")
     # thread2.start()
