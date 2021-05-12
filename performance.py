@@ -4,9 +4,10 @@ import os
 import time
 from myThread import myThread
 from pullhprof import getDeviceidList
+from utile import setting
 
 
-def performance_info(deviceid,package1,save_path):
+def performance_info(deviceid, package1, save_path):
     time.sleep(3)
     os.popen('adb -s %s shell dumpsys cpuinfo | grep %s >> ./%s/%s_cpu.txt' %(deviceid, package1, save_path, deviceid))
     os.popen('adb -s %s shell dumpsys meminfo -a %s >> ./%s/%s_mem.txt' % (deviceid, package1, save_path, deviceid))
@@ -20,7 +21,7 @@ def run_performance(query_number):
         print(line)
         time.sleep(5)
         for deviceid in devicelist:
-            performance_info(deviceid, package, save_path = result_path)
+            performance_info(deviceid, package, save_path=result_path)
 
         time.sleep(5)
         count += 1
@@ -31,7 +32,7 @@ def run_performance(query_number):
 
 
 if __name__ == '__main__':
-    package = 'c.l.a'
+    package = setting.package
     deviceidlist = getDeviceidList()
     date = time.strftime("%Y%m%d", time.localtime(time.time()))
     # global result_path

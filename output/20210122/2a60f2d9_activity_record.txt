@@ -1,0 +1,39 @@
+===============================================================
+20210122 15:54:22 
+    Running activities (most recent first):
+      TaskRecord{3f7914 #2741 A=com.defend.icebox U=0 StackId=2739 sz=1}
+        Run #0: ActivityRecord{d4de1de u0 com.defend.icebox/org.cocos2dx.javascript.AppActivity t2741}
+    Running activities (most recent first):
+      TaskRecord{29b06f4 #32 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{574d962 u0 com.miui.home/.launcher.Launcher t32}
+===============================================================
+===============================================================
+20210122 16:06:04 
+    Running activities (most recent first):
+      TaskRecord{3f7914 #2741 A=com.defend.icebox U=0 StackId=2739 sz=2}
+        Run #1: ActivityRecord{90c31a9 u0 com.defend.icebox/com.qq.e.ads.PortraitADActivity t2741}
+        Run #0: ActivityRecord{d4de1de u0 com.defend.icebox/org.cocos2dx.javascript.AppActivity t2741}
+    Running activities (most recent first):
+      TaskRecord{29b06f4 #32 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{574d962 u0 com.miui.home/.launcher.Launcher t32}
+===============================================================
+===============================================================
+20210122 16:17:45 
+    Running activities (most recent first):
+      TaskRecord{3f7914 #2741 A=com.defend.icebox U=0 StackId=2739 sz=2}
+        Run #1: ActivityRecord{8f09af1 u0 com.defend.icebox/com.qq.e.ads.PortraitADActivity t2741}
+        Run #0: ActivityRecord{d4de1de u0 com.defend.icebox/org.cocos2dx.javascript.AppActivity t2741}
+    Running activities (most recent first):
+      TaskRecord{29b06f4 #32 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{574d962 u0 com.miui.home/.launcher.Launcher t32}
+===============================================================
+===============================================================
+20210122 16:29:26 
+    Running activities (most recent first):
+      TaskRecord{3f7914 #2741 A=com.defend.icebox U=0 StackId=2739 sz=2}
+        Run #1: ActivityRecord{6fbe720 u0 com.defend.icebox/com.qq.e.ads.PortraitADActivity t2741}
+        Run #0: ActivityRecord{d4de1de u0 com.defend.icebox/org.cocos2dx.javascript.AppActivity t2741}
+    Running activities (most recent first):
+      TaskRecord{29b06f4 #32 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{574d962 u0 com.miui.home/.launcher.Launcher t32}
+===============================================================

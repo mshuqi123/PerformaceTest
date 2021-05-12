@@ -3,6 +3,7 @@ import os
 import threading
 import time
 from pullhprof import activityRecord, pullHprof
+from utile import setting
 
 
 class myThread(threading.Thread):
@@ -25,7 +26,7 @@ class myThread(threading.Thread):
 
 
 def run_pull(deviceid, result_path):
-    package = "c.l.a"
+    package = setting.package
     _hprof_save_path = result_path + "/%s" % deviceid
     if not os.path.exists(_hprof_save_path):
         os.makedirs(_hprof_save_path)
