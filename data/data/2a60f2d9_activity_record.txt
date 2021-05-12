@@ -1,0 +1,121 @@
+===============================================================
+20201205 14:27:41 
+    Running activities (most recent first):
+      TaskRecord{604ebde #4826 A=com.painting.xswl U=0 StackId=4633 sz=1}
+        Run #0: ActivityRecord{3a74142 u0 com.painting.xswl/org.cocos2dx.javascript.AppActivity t4826}
+    Running activities (most recent first):
+      TaskRecord{84fe6f #4251 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{634bf3c u0 com.miui.home/.launcher.Launcher t4251}
+    Running activities (most recent first):
+      TaskRecord{40608c #4829 A=com.tencent.mm U=0 StackId=4636 sz=1}
+        Run #0: ActivityRecord{8b077da u0 com.tencent.mm/.ui.LauncherUI t4829}
+    Running activities (most recent first):
+      TaskRecord{11bf3d5 #4827 A=com.android.settings.root U=0 StackId=4634 sz=2}
+        Run #1: ActivityRecord{f12ae10 u0 com.android.settings/.Settings$WifiSettingsActivity t4827}
+        Run #0: ActivityRecord{71e49bc u0 com.android.settings/.MainSettings t4827}
+===============================================================
+===============================================================
+20201205 14:39:22 
+    Running activities (most recent first):
+      TaskRecord{604ebde #4826 A=com.painting.xswl U=0 StackId=4633 sz=1}
+        Run #0: ActivityRecord{3a74142 u0 com.painting.xswl/org.cocos2dx.javascript.AppActivity t4826}
+    Running activities (most recent first):
+      TaskRecord{84fe6f #4251 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{634bf3c u0 com.miui.home/.launcher.Launcher t4251}
+    Running activities (most recent first):
+      TaskRecord{11bf3d5 #4827 A=com.android.settings.root U=0 StackId=4634 sz=2}
+        Run #1: ActivityRecord{f12ae10 u0 com.android.settings/.Settings$WifiSettingsActivity t4827}
+        Run #0: ActivityRecord{71e49bc u0 com.android.settings/.MainSettings t4827}
+===============================================================
+===============================================================
+20201205 14:51:04 
+===============================================================
+===============================================================
+20201210 19:55:36 
+    Running activities (most recent first):
+      TaskRecord{b4175bf #5382 A=com.painting.xswl U=0 StackId=5191 sz=1}
+        Run #0: ActivityRecord{95c2476 u0 com.painting.xswl/org.cocos2dx.javascript.AppActivity t5382}
+    Running activities (most recent first):
+      TaskRecord{84fe6f #4251 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{634bf3c u0 com.miui.home/.launcher.Launcher t4251}
+    Running activities (most recent first):
+      TaskRecord{36847d5 #5378 A=com.tencent.mm U=0 StackId=5187 sz=1}
+        Run #0: ActivityRecord{1c6d3ac u0 com.tencent.mm/.ui.LauncherUI t5378}
+===============================================================
+===============================================================
+20201210 20:07:18 
+    Running activities (most recent first):
+      TaskRecord{b4175bf #5382 A=com.painting.xswl U=0 StackId=5191 sz=2}
+        Run #1: ActivityRecord{72e5600 u0 com.painting.xswl/com.bytedance.sdk.openadsdk.activity.base.TTRewardExpressVideoActivity t5382}
+        Run #0: ActivityRecord{95c2476 u0 com.painting.xswl/org.cocos2dx.javascript.AppActivity t5382}
+    Running activities (most recent first):
+      TaskRecord{84fe6f #4251 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{634bf3c u0 com.miui.home/.launcher.Launcher t4251}
+    Running activities (most recent first):
+      TaskRecord{36847d5 #5378 A=com.tencent.mm U=0 StackId=5187 sz=1}
+        Run #0: ActivityRecord{1c6d3ac u0 com.tencent.mm/.ui.LauncherUI t5378}
+===============================================================
+===============================================================
+20201210 20:18:59 
+    Running activities (most recent first):
+      TaskRecord{b4175bf #5382 A=com.painting.xswl U=0 StackId=5191 sz=2}
+        Run #1: ActivityRecord{2cc76a u0 com.painting.xswl/com.bytedance.sdk.openadsdk.activity.base.TTRewardExpressVideoActivity t5382}
+        Run #0: ActivityRecord{95c2476 u0 com.painting.xswl/org.cocos2dx.javascript.AppActivity t5382}
+    Running activities (most recent first):
+      TaskRecord{84fe6f #4251 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{634bf3c u0 com.miui.home/.launcher.Launcher t4251}
+    Running activities (most recent first):
+      TaskRecord{36847d5 #5378 A=com.tencent.mm U=0 StackId=5187 sz=1}
+        Run #0: ActivityRecord{1c6d3ac u0 com.tencent.mm/.ui.LauncherUI t5378}
+===============================================================
+===============================================================
+20201210 20:30:40 
+    Running activities (most recent first):
+      TaskRecord{b4175bf #5382 A=com.painting.xswl U=0 StackId=5191 sz=1}
+        Run #0: ActivityRecord{95c2476 u0 com.painting.xswl/org.cocos2dx.javascript.AppActivity t5382}
+    Running activities (most recent first):
+      TaskRecord{84fe6f #4251 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{634bf3c u0 com.miui.home/.launcher.Launcher t4251}
+    Running activities (most recent first):
+      TaskRecord{36847d5 #5378 A=com.tencent.mm U=0 StackId=5187 sz=1}
+        Run #0: ActivityRecord{1c6d3ac u0 com.tencent.mm/.ui.LauncherUI t5378}
+===============================================================
+===============================================================
+20210122 15:54:21 
+    Running activities (most recent first):
+      TaskRecord{3f7914 #2741 A=com.defend.icebox U=0 StackId=2739 sz=1}
+        Run #0: ActivityRecord{d4de1de u0 com.defend.icebox/org.cocos2dx.javascript.AppActivity t2741}
+    Running activities (most recent first):
+      TaskRecord{29b06f4 #32 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{574d962 u0 com.miui.home/.launcher.Launcher t32}
+===============================================================
+===============================================================
+20210122 16:06:02 
+    Running activities (most recent first):
+      TaskRecord{3f7914 #2741 A=com.defend.icebox U=0 StackId=2739 sz=2}
+        Run #1: ActivityRecord{90c31a9 u0 com.defend.icebox/com.qq.e.ads.PortraitADActivity t2741}
+        Run #0: ActivityRecord{d4de1de u0 com.defend.icebox/org.cocos2dx.javascript.AppActivity t2741}
+    Running activities (most recent first):
+      TaskRecord{29b06f4 #32 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{574d962 u0 com.miui.home/.launcher.Launcher t32}
+===============================================================
+===============================================================
+20210122 16:17:44 
+    Running activities (most recent first):
+      TaskRecord{3f7914 #2741 A=com.defend.icebox U=0 StackId=2739 sz=2}
+        Run #1: ActivityRecord{8f09af1 u0 com.defend.icebox/com.qq.e.ads.PortraitADActivity t2741}
+        Run #0: ActivityRecord{d4de1de u0 com.defend.icebox/org.cocos2dx.javascript.AppActivity t2741}
+    Running activities (most recent first):
+      TaskRecord{29b06f4 #32 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{574d962 u0 com.miui.home/.launcher.Launcher t32}
+===============================================================
+===============================================================
+20210122 16:29:25 
+    Running activities (most recent first):
+      TaskRecord{3f7914 #2741 A=com.defend.icebox U=0 StackId=2739 sz=2}
+        Run #1: ActivityRecord{6fbe720 u0 com.defend.icebox/com.qq.e.ads.PortraitADActivity t2741}
+        Run #0: ActivityRecord{d4de1de u0 com.defend.icebox/org.cocos2dx.javascript.AppActivity t2741}
+    Running activities (most recent first):
+      TaskRecord{29b06f4 #32 I=com.miui.home/.launcher.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{574d962 u0 com.miui.home/.launcher.Launcher t32}
+===============================================================

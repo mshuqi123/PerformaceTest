@@ -1,0 +1,16 @@
+===============================================================
+20200525 18:49:39 
+    Running activities (most recent first):
+      TaskRecord{169879a #10 A=c.l.a U=0 StackId=1 sz=1}
+        Run #3: ActivityRecord{1e27a0c u0 c.l.a/.views.AppBoxHomeActivity t10}
+      TaskRecord{4b707e8 #3 A=com.android.settings U=0 StackId=1 sz=3}
+        Run #2: ActivityRecord{ae4d0c6 u0 com.android.settings/.Settings$DevelopmentSettingsActivity t3}
+        Run #1: ActivityRecord{52cd3f2 u0 com.android.settings/.Settings$GeneralSettingsActivity t3}
+        Run #0: ActivityRecord{8d154da u0 com.android.settings/.Settings t3}
+    Running activities (most recent first):
+      TaskRecord{2e5205c #2 I=com.bbk.launcher2/.Launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{7fe26f7 u0 com.bbk.launcher2/.Launcher t2}
+    Running activities (most recent first):
+      TaskRecord{bfeb342 #5 A=com.vivo.upslide U=0 StackId=5 sz=1}
+        Run #0: ActivityRecord{243aa78 u0 com.vivo.upslide/.recents.RecentsActivity t5}
+===============================================================

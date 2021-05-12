@@ -13,6 +13,9 @@ package = "com.guess.video"   #猜猜这是谁
 name = ["点点涂色", "我拼图贼6", "冰箱保卫战", "我找的贼快"]
 
 # device_id = "2a60f2d9"
+# device_id = "LE67A06340120555"
+
+# device_id = "2a60f2d9"
 # device_id = "G64HMROBNZUCIV79"
 device_id = "GDBNW19809004953"
 

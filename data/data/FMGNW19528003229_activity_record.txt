@@ -1,0 +1,21 @@
+===============================================================
+20201204 15:40:56 
+    Running activities (most recent first):
+      TaskRecord{64b9737 #1501 A=com.huawei.android.launcher U=0 StackId=0 sz=1}
+        Run #0: ActivityRecord{4d8cc36 u0 com.huawei.android.launcher/.unihome.UniHomeLauncher t1501}
+    Running activities (most recent first):
+      TaskRecord{cf19fe8 #1641 A=com.tencent.mobileqq U=0 StackId=309 sz=1}
+        Run #0: ActivityRecord{e8e0a7b u0 com.tencent.mobileqq/.activity.SplashActivity t1641}
+    Running activities (most recent first):
+      TaskRecord{4cc1d4e #1700 A=com.red.answer U=0 StackId=368 sz=1}
+        Run #0: ActivityRecord{996734e u0 com.red.answer/.home.HomeActivity t1700}
+    Running activities (most recent first):
+      TaskRecord{a96956c #1680 I=com.android.settings/.Settings$WifiSettingsActivity U=0 StackId=348 sz=1}
+        Run #0: ActivityRecord{816be1f u0 com.android.settings/.Settings$WifiSettingsActivity t1680}
+    Running activities (most recent first):
+      TaskRecord{71b1844 #1653 A=com.android.settings U=0 StackId=321 sz=1}
+        Run #0: ActivityRecord{a92a557 u0 com.android.settings/.HWSettings t1653}
+    Running activities (most recent first):
+      TaskRecord{1cd0d65 #1667 I=com.android.settings/.Settings$ManageApplicationsActivity U=0 StackId=335 sz=1}
+        Run #0: ActivityRecord{1a6a65c u0 com.android.settings/.Settings$ManageApplicationsActivity t1667}
+===============================================================
